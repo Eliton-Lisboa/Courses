@@ -1,3 +1,10 @@
+# PHP
+
+[Course link](https://www.youtube.com/watch?v=F7KzJ7e6EAc&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k&index=1)
+
+Lessons: 19  
+Score: 7.2
+
 # PHP with OOP
 
 [Course link](https://www.youtube.com/watch?v=jFI-qqitzwk&list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x&index=1)
@@ -12,12 +19,12 @@ Score: 9.98
 Lessons: 24  
 Score: 4.2
 
-# PHP
+# D
 
-[Course link](https://www.youtube.com/watch?v=F7KzJ7e6EAc&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k&index=1)
+[Course link](https://www.youtube.com/watch?v=uyDsZLPggrw&list=PLC4Q40lTZ5st38ikRV5szGkx3fZXYchOz)
 
-Lessons: 19  
-Score: 7.2
+Lessons: 14  
+Score: 4.3
 
 # Fortran90
 
@@ -46,10 +53,3 @@ Score: 10
 
 Lessons: 31  
 Score: 9.6
-
-# D
-
-[Course link](https://www.youtube.com/watch?v=uyDsZLPggrw&list=PLC4Q40lTZ5st38ikRV5szGkx3fZXYchOz)
-
-Lessons: 14  
-Score: 4.3
