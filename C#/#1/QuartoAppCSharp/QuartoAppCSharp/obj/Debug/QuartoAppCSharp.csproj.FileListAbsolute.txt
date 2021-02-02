@@ -1,0 +1,9 @@
+C:\Users\elito\source\repos\QuartoAppCSharp\QuartoAppCSharp\bin\Debug\QuartoAppCSharp.exe.config
+C:\Users\elito\source\repos\QuartoAppCSharp\QuartoAppCSharp\bin\Debug\QuartoAppCSharp.exe
+C:\Users\elito\source\repos\QuartoAppCSharp\QuartoAppCSharp\bin\Debug\QuartoAppCSharp.pdb
+C:\Users\elito\source\repos\QuartoAppCSharp\QuartoAppCSharp\obj\Debug\QuartoAppCSharp.csprojAssemblyReference.cache
+C:\Users\elito\source\repos\QuartoAppCSharp\QuartoAppCSharp\obj\Debug\QuartoAppCSharp.Form1.resources
+C:\Users\elito\source\repos\QuartoAppCSharp\QuartoAppCSharp\obj\Debug\QuartoAppCSharp.Properties.Resources.resources
+C:\Users\elito\source\repos\QuartoAppCSharp\QuartoAppCSharp\obj\Debug\QuartoAppCSharp.csproj.GenerateResource.cache
+C:\Users\elito\source\repos\QuartoAppCSharp\QuartoAppCSharp\obj\Debug\QuartoAppCSharp.exe
+C:\Users\elito\source\repos\QuartoAppCSharp\QuartoAppCSharp\obj\Debug\QuartoAppCSharp.pdb

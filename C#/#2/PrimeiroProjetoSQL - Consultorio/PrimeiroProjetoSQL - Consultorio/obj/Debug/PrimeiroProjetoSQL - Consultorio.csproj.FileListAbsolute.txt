@@ -1,0 +1,20 @@
+C:\Users\elito\source\repos\PrimeiroProjetoSQL - Consultorio\PrimeiroProjetoSQL - Consultorio\bin\Debug\PrimeiroProjetoSQL - Consultorio.exe.config
+C:\Users\elito\source\repos\PrimeiroProjetoSQL - Consultorio\PrimeiroProjetoSQL - Consultorio\bin\Debug\PrimeiroProjetoSQL - Consultorio.exe
+C:\Users\elito\source\repos\PrimeiroProjetoSQL - Consultorio\PrimeiroProjetoSQL - Consultorio\bin\Debug\PrimeiroProjetoSQL - Consultorio.pdb
+C:\Users\elito\source\repos\PrimeiroProjetoSQL - Consultorio\PrimeiroProjetoSQL - Consultorio\obj\Debug\PrimeiroProjetoSQL - Consultorio.csprojAssemblyReference.cache
+C:\Users\elito\source\repos\PrimeiroProjetoSQL - Consultorio\PrimeiroProjetoSQL - Consultorio\obj\Debug\PrimeiroProjetoSQL___Consultorio.Form1.resources
+C:\Users\elito\source\repos\PrimeiroProjetoSQL - Consultorio\PrimeiroProjetoSQL - Consultorio\obj\Debug\PrimeiroProjetoSQL___Consultorio.Properties.Resources.resources
+C:\Users\elito\source\repos\PrimeiroProjetoSQL - Consultorio\PrimeiroProjetoSQL - Consultorio\obj\Debug\PrimeiroProjetoSQL - Consultorio.csproj.GenerateResource.cache
+C:\Users\elito\source\repos\PrimeiroProjetoSQL - Consultorio\PrimeiroProjetoSQL - Consultorio\obj\Debug\PrimeiroProjetoSQL - Consultorio.csproj.CoreCompileInputs.cache
+C:\Users\elito\source\repos\PrimeiroProjetoSQL - Consultorio\PrimeiroProjetoSQL - Consultorio\obj\Debug\PrimeiroProjetoSQL - Consultorio.exe
+C:\Users\elito\source\repos\PrimeiroProjetoSQL - Consultorio\PrimeiroProjetoSQL - Consultorio\obj\Debug\PrimeiroProjetoSQL - Consultorio.pdb
+C:\Users\elito\Videos\More\Curse\#2\PrimeiroProjetoSQL - Consultorio\PrimeiroProjetoSQL - Consultorio\bin\Debug\PrimeiroProjetoSQL - Consultorio.exe.config
+C:\Users\elito\Videos\More\Curse\#2\PrimeiroProjetoSQL - Consultorio\PrimeiroProjetoSQL - Consultorio\bin\Debug\PrimeiroProjetoSQL - Consultorio.exe
+C:\Users\elito\Videos\More\Curse\#2\PrimeiroProjetoSQL - Consultorio\PrimeiroProjetoSQL - Consultorio\bin\Debug\PrimeiroProjetoSQL - Consultorio.pdb
+C:\Users\elito\Videos\More\Curse\#2\PrimeiroProjetoSQL - Consultorio\PrimeiroProjetoSQL - Consultorio\obj\Debug\PrimeiroProjetoSQL - Consultorio.csprojAssemblyReference.cache
+C:\Users\elito\Videos\More\Curse\#2\PrimeiroProjetoSQL - Consultorio\PrimeiroProjetoSQL - Consultorio\obj\Debug\PrimeiroProjetoSQL___Consultorio.Form1.resources
+C:\Users\elito\Videos\More\Curse\#2\PrimeiroProjetoSQL - Consultorio\PrimeiroProjetoSQL - Consultorio\obj\Debug\PrimeiroProjetoSQL___Consultorio.Properties.Resources.resources
+C:\Users\elito\Videos\More\Curse\#2\PrimeiroProjetoSQL - Consultorio\PrimeiroProjetoSQL - Consultorio\obj\Debug\PrimeiroProjetoSQL - Consultorio.csproj.GenerateResource.cache
+C:\Users\elito\Videos\More\Curse\#2\PrimeiroProjetoSQL - Consultorio\PrimeiroProjetoSQL - Consultorio\obj\Debug\PrimeiroProjetoSQL - Consultorio.csproj.CoreCompileInputs.cache
+C:\Users\elito\Videos\More\Curse\#2\PrimeiroProjetoSQL - Consultorio\PrimeiroProjetoSQL - Consultorio\obj\Debug\PrimeiroProjetoSQL - Consultorio.exe
+C:\Users\elito\Videos\More\Curse\#2\PrimeiroProjetoSQL - Consultorio\PrimeiroProjetoSQL - Consultorio\obj\Debug\PrimeiroProjetoSQL - Consultorio.pdb

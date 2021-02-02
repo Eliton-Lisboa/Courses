@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='utf-8'/>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'/>
+
+    <link rel='stylesheet' href='../model/style.css'/>
+
+    <title>Document</title>
+</head>
+<body>
+    <div id='contains'>
+        <form method='get' action='./index.php'>
+            Number: <input type='number' name='number'/> <br/>
+            <fieldset>
+                <legend>Operation</legend>
+                <input type='radio' name="opr" id='1' value='1' checked/>
+                <label for='1'>Double</label>
+                <input type='radio' name="opr" id='2' value='2'/>
+                <label for='2'>Triple</label>
+                <input type='radio' name="opr" id='3' value='3'/>
+                <label for='3'>Square root</label>
+            </fieldset>
+
+            <input type='submit' class='button' value='Calculate'/>
+        </form>
+        <br/>
+        <form method='get' action='./index.php'>
+            Day of week: <input type='number' name='dow' min='2' max='8' required/>
+            <input type='submit' class='button' value='Analyze'/>
+        </form>
+    </div>
+    
+</body>
+</html>

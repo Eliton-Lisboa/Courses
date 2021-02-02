@@ -1,0 +1,21 @@
+@mixin pxToRem() {
+    padding: (4px / 16);
+    border-width: (2px / 16) rgba(0, 0, 0, .2);
+    border-style: none;
+    border-radius: (4px / 16);
+}
+
+input#btnLogin {
+    @include pxToRem();
+    background: #e00;
+}
+
+input#btnRegister {
+    @include pxToRem();
+    background: #ef0;
+}
+
+input#btnLogout {
+    @include pxToRem();
+    background: #0f00;
+}

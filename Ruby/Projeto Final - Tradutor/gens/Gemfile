@@ -1,0 +1,4 @@
+source 'https://rubygems.org'
+
+
+gem 'easy_translate', '~> 0.5.1'

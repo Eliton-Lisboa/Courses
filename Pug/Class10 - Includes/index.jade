@@ -1,0 +1,12 @@
+doctype html
+html(lang='en')
+    header
+        meta(charset='utf-8')
+        link(rel='stylesheet', href='./')
+        script(src='./')
+        title Document
+    body
+        include ./template
+
+        each name in names
+            h1 #{name}

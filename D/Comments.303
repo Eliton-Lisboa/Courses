@@ -1,0 +1,15 @@
+[=1 ~title] Comments of D Language
+
+[>1 ~subtitle] How to compile d file in terminal
+}
+    dmd "code file.d"
+
+    >returned
+    code file.obj
+    code file.exe
+}
+
+Execute:
+}
+    ".\code file.exe"
+}

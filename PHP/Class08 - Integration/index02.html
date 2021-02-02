@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='utf-8'/>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'/>
+
+    <link rel='stylesheet' href='../../model/style.css'/>
+
+    <title>Document</title>
+</head>
+<body>
+
+    <div id='contains'>
+        <form method='get' action='./index.php'>
+            Name: <input type='text' name='name'/> <br/>
+            Year of birth: <input type='number' name='year'/> <br/>
+
+            <fieldset>
+                <legend>Sexo</legend>
+
+                <input type='radio' name='sex' id='masc' value='men'/>
+                <label for='masc'>Male</label> <br/>
+                <input type='radio' name='sex' id='fem' value='woman' checked/>
+                <label for='fem'>Feminine</label>
+            </fieldset> <br/>
+
+            <input type='submit' value='Submit'/>
+        </form>
+
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,26 @@
+nav {
+    width: 100%;
+    background: #000;
+
+    ul {
+        list-style: none;
+        padding: 20px 0px;
+    }
+
+    li {
+        color: red;
+        margin: 0px 20px;
+        font: {
+            family: Arial;
+            size: 14pt;
+            weight: bold;
+        }
+    }
+
+    a {
+        color: red;
+        &:hover {
+            color: blue;
+        }
+    }
+}

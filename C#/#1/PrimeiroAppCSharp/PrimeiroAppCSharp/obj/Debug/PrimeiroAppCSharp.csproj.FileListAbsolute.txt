@@ -1,0 +1,47 @@
+C:\Users\Esscolaa tks\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\bin\Debug\PrimeiroAppCSharp.exe.config
+C:\Users\Esscolaa tks\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\bin\Debug\PrimeiroAppCSharp.exe
+C:\Users\Esscolaa tks\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\bin\Debug\PrimeiroAppCSharp.pdb
+C:\Users\Esscolaa tks\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.csprojAssemblyReference.cache
+C:\Users\Esscolaa tks\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.frmPrincipal.resources
+C:\Users\Esscolaa tks\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.Properties.Resources.resources
+C:\Users\Esscolaa tks\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.csproj.GenerateResource.cache
+C:\Users\Esscolaa tks\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.exe
+C:\Users\Esscolaa tks\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.pdb
+C:\Users\Esscolaa tks\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.frmPropriedadesCheckBox.resources
+C:\Users\Tks Cursos\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\bin\Debug\PrimeiroAppCSharp.exe.config
+C:\Users\Tks Cursos\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\bin\Debug\PrimeiroAppCSharp.exe
+C:\Users\Tks Cursos\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\bin\Debug\PrimeiroAppCSharp.pdb
+C:\Users\Tks Cursos\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.csprojAssemblyReference.cache
+C:\Users\Tks Cursos\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.frmPrincipal.resources
+C:\Users\Tks Cursos\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.frmPropriedadesCheckBox.resources
+C:\Users\Tks Cursos\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.Properties.Resources.resources
+C:\Users\Tks Cursos\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.csproj.GenerateResource.cache
+C:\Users\Tks Cursos\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.exe
+C:\Users\Tks Cursos\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.pdb
+C:\Users\Tks Cursos\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.frmVisializadorImagens.resources
+C:\Users\Esscolaa tks\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.frmVisializadorImagens.resources
+C:\Users\Esscolaa tks\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.frmTabuada.resources
+C:\Users\Administrador\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\bin\Debug\PrimeiroAppCSharp.exe.config
+C:\Users\Administrador\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\bin\Debug\PrimeiroAppCSharp.exe
+C:\Users\Administrador\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\bin\Debug\PrimeiroAppCSharp.pdb
+C:\Users\Administrador\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.frmPrincipal.resources
+C:\Users\Administrador\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.frmPropriedadesCheckBox.resources
+C:\Users\Administrador\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.frmTabuada.resources
+C:\Users\Administrador\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.frmVisializadorImagens.resources
+C:\Users\Administrador\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.Properties.Resources.resources
+C:\Users\Administrador\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.exe
+C:\Users\Administrador\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.pdb
+C:\Users\elito\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\bin\Debug\PrimeiroAppCSharp.exe.config
+C:\Users\elito\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\bin\Debug\PrimeiroAppCSharp.exe
+C:\Users\elito\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\bin\Debug\PrimeiroAppCSharp.pdb
+C:\Users\elito\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.csprojAssemblyReference.cache
+C:\Users\elito\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.frmPrincipal.resources
+C:\Users\elito\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.frmPropriedadesCheckBox.resources
+C:\Users\elito\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.frmTabuada.resources
+C:\Users\elito\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.frmVisializadorImagens.resources
+C:\Users\elito\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.Properties.Resources.resources
+C:\Users\elito\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.csproj.GenerateResource.cache
+C:\Users\elito\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.exe
+C:\Users\elito\source\repos\PrimeiroAppCSharp\PrimeiroAppCSharp\obj\Debug\PrimeiroAppCSharp.pdb

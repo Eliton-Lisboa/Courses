@@ -1,0 +1,42 @@
+$red: 100;
+$green: 200;
+$blue: 100;
+$alpha: 0.8;
+$color: red;
+$amount: 80%;
+$font: Open Sans;
+$weight: "bold";
+$real_round: 2.2;
+$real: 2.5;
+
+body {
+    background: rgb($red, $green, $blue);
+}
+
+section {
+    background: rgba($red, $green, $blue, $alpha);
+}
+
+section div {
+    background: lighten($color, $amount);
+    background: darken($color, $amount);
+    font-family: quote($font);
+    font-weight: unquote($weight);
+    padding: str-length($weight);
+    font-family: to-upper-case($weight);
+    font-family: to-lower-case($weight);
+    width: percentage(str-length($weight));
+    margin: round($real_round);
+    margin: ceil($real);
+    margin: floor($real);
+}
+
+// ----
+
+@function calc-fluid($target, $container) {
+    @return ($target / $container) * 100%;
+}
+
+div {
+    width: calc-fluid(400, 1000);
+}

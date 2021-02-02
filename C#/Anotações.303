@@ -1,0 +1,63 @@
+#region Visual Studio 2012
+; A propriedade que define um Componente apenas para leitura é enable : false
+
+
+#region estrutura condicional
+    ; ex:
+        ; if            ; Switch & Case
+        ; else
+
+#region classe
+; classe é uma estrutura que define um determinado conjunto de
+; objetos que possuem caracteristicas em comum
+; atraves de metodos ela determina o comportamento de seus objetos
+; Criar classe separadamente: project/Add Class
+; Uma classe abstrata é muito semelhante a uma classe porem não pode ser instanciada só herdada: false
+; A classe abstrata não pode ser instanciada
+; Todas podem ser hedadas e emplementadas : false
+; Classes abstratas servem apenas de medelo para outras classes
+; Subescrêver : override
+
+#region instancia
+; criar objeto para que a classe seja funcional
+; ex:
+	Class Classe = new Class();
+
+#region escape
+; uma combinação de caracteres
+; combinação de digitos
+; realizar ação                  Usada para representar uma determinada ação
+; incerir espaço
+; pular linha
+; incerir uma guia vertical
+
+#region Metodo
+; é uma subrrotina que pode ser executada por um objeto quando
+; o mesmo recebe uma menssagem
+; privada: false
+; Manipula: true
+; metodo de acesso, apenas para gravção de dados: false
+; AppendText, é metodo de acesso? : false
+
+; Método Construtor: Executa as instruções cada vez que a classe for instanciada
+; Método Construtor: Pode ser reconhecido através de seu nome, que deverá ser o mesmo da classe onde foi criado
+
+#region encapsulamento
+; depois de fazer o emcapsulamento nao necessita fazer nada!
+; Partes: deixar privada, Sim
+; propriedades de todas as classes: False
+
+#region Polimorfismo
+; Pode apresentar um unico comportamento: false
+; Pode ser aplicado aos metodos: true
+
+#region interface
+; Uma intertace é muito igual a uma classe porem não podemos criar campos: true
+; Editamos toda a parte grafica do projeto : false
+; Só pode ser herdada não pode ser emplementada
+
+#region Sql
+; É completado através de um assistente
+; Suas ferramentas só se tornam ativas se nao tiver tabelas abertas
+; AutoEmcremento : Ententry
+; Não funciona se estiver com uma tabela aberta

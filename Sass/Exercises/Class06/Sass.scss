@@ -1,0 +1,21 @@
+.btn-follow {
+    padding: (4px / 16);
+    border-width: (2px / 16) rgba(0, 0, 0, .2);
+    border-style: none;
+    border-radius: (4px / 16);
+}
+
+input#btnLogin {
+    @extend .btn-follow;
+    background: #e00;
+}
+
+input#btnRegister {
+    @extend .btn-follow;
+    background: #ef0;
+}
+
+input#btnLogout {
+    @extend .btn-follow;
+    background: #0f00;
+}

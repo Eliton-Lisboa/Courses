@@ -1,0 +1,41 @@
+# V.1
+first_lambda = lambda { puts "my first lambda"}
+first_lambda.call
+
+# V.2
+first_lambda = -> { puts "my first lambda"}
+first_lambda.call
+
+# V.3
+first_lambda = -> (names){ names.each { |name |puts name} }
+
+names = ["joão", "maria", "pedro"]
+
+first_lambda.call(names)
+
+# V.4
+my_lambda = lambda do |numbers|
+    index = 0
+    puts 'Número atual + Próximo número'
+    numbers.each do |number|
+        return if index == numbers.count - 1
+        puts "(#{numbers[index]}) + (#{numbers[index + 1]})"
+        puts numbers[index] + numbers[index + 1]
+        index += 1
+    end
+end
+    
+numbers = [1, 2, 3, 4]
+
+my_lambda.call(numbers)
+
+# V.5
+def foo (first_lambda, second_lambda)
+    first_lambda.call
+    second_lambda.call
+end
+    
+first_lambda = lambda { puts "my first lambda"}
+second_lambda = lambda { puts "my second lambda"}
+    
+foo(first_lambda, second_lambda)

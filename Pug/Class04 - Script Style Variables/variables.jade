@@ -1,0 +1,47 @@
+doctype html
+html(lang='en')
+    header
+        meta(charset='utf-8')
+        link(rel='stylesheet', href='./')
+        style.
+            body {
+                background: rgb(18, 18, 18);
+                margin: 0px;
+                padding: 0px;
+            }
+
+        title Document
+        
+    body
+        -const nombre = 'Eliton'
+        -const apellido = '303'
+        -var list = [1, 6, 3, 9, 5]
+        -
+            const object = {
+                name: 'Eliton',
+                username: '303',
+                age: '15'
+            }
+
+        h1= object.name
+        h1= object.username
+        h1= object.age
+
+        h1(style={
+            'color': 'dimgray',
+            'background': 'rgb(21, 21, 21)',
+            'text-align': 'center',
+            'margin': '0px'
+        })#text= `Hi, nombre apellido`
+
+        ul.nav
+            li= list[1]
+            li= list[3]
+            li= `${list[4]}`
+            li #{list[2]}
+        
+        script(src='./')
+        script.
+            text.addEventListener('click', () => {
+                alert('Hello, World!')
+            })

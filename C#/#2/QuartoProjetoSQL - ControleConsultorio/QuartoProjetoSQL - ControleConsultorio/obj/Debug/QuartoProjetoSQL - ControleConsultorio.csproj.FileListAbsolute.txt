@@ -1,0 +1,13 @@
+C:\Users\elito\Videos\More\Curse\#2\QuartoProjetoSQL - ControleConsultorio\QuartoProjetoSQL - ControleConsultorio\bin\Debug\QuartoProjetoSQL - ControleConsultorio.exe.config
+C:\Users\elito\Videos\More\Curse\#2\QuartoProjetoSQL - ControleConsultorio\QuartoProjetoSQL - ControleConsultorio\bin\Debug\QuartoProjetoSQL - ControleConsultorio.exe
+C:\Users\elito\Videos\More\Curse\#2\QuartoProjetoSQL - ControleConsultorio\QuartoProjetoSQL - ControleConsultorio\bin\Debug\QuartoProjetoSQL - ControleConsultorio.pdb
+C:\Users\elito\Videos\More\Curse\#2\QuartoProjetoSQL - ControleConsultorio\QuartoProjetoSQL - ControleConsultorio\obj\Debug\QuartoProjetoSQL - ControleConsultorio.csprojAssemblyReference.cache
+C:\Users\elito\Videos\More\Curse\#2\QuartoProjetoSQL - ControleConsultorio\QuartoProjetoSQL - ControleConsultorio\obj\Debug\QuartoProjetoSQL___ControleConsultorio.frmMedicos.resources
+C:\Users\elito\Videos\More\Curse\#2\QuartoProjetoSQL - ControleConsultorio\QuartoProjetoSQL - ControleConsultorio\obj\Debug\QuartoProjetoSQL___ControleConsultorio.frmPrincipal.resources
+C:\Users\elito\Videos\More\Curse\#2\QuartoProjetoSQL - ControleConsultorio\QuartoProjetoSQL - ControleConsultorio\obj\Debug\QuartoProjetoSQL___ControleConsultorio.Properties.Resources.resources
+C:\Users\elito\Videos\More\Curse\#2\QuartoProjetoSQL - ControleConsultorio\QuartoProjetoSQL - ControleConsultorio\obj\Debug\QuartoProjetoSQL - ControleConsultorio.csproj.GenerateResource.cache
+C:\Users\elito\Videos\More\Curse\#2\QuartoProjetoSQL - ControleConsultorio\QuartoProjetoSQL - ControleConsultorio\obj\Debug\QuartoProjetoSQL - ControleConsultorio.csproj.CoreCompileInputs.cache
+C:\Users\elito\Videos\More\Curse\#2\QuartoProjetoSQL - ControleConsultorio\QuartoProjetoSQL - ControleConsultorio\obj\Debug\QuartoProjetoSQL - ControleConsultorio.exe
+C:\Users\elito\Videos\More\Curse\#2\QuartoProjetoSQL - ControleConsultorio\QuartoProjetoSQL - ControleConsultorio\obj\Debug\QuartoProjetoSQL - ControleConsultorio.pdb
+C:\Users\elito\Videos\More\Curse\#2\QuartoProjetoSQL - ControleConsultorio\QuartoProjetoSQL - ControleConsultorio\obj\Debug\QuartoProjetoSQL___ControleConsultorio.frmConsultas.resources
+C:\Users\elito\Videos\More\Curse\#2\QuartoProjetoSQL - ControleConsultorio\QuartoProjetoSQL - ControleConsultorio\obj\Debug\QuartoProjetoSQL___ControleConsultorio.frmPacientes.resources

@@ -1,0 +1,30 @@
+// Enquanto x for menor que 3 ou igual a 3 ...   ; For
+@for $x from 1 through 3 {
+    .item-#{$x} {
+        width: 2em * $x;
+    }
+}
+
+// Enquanto x for menor que 3 ...                ; For
+@for $x from 1 to 3 {
+    .item-#{$x} {
+        width: 2em * $x;
+    }
+}
+
+//                                               ; Foreach
+$animals: puma, sea-slug, egret, salamander;
+@each $animal in $animals {
+    .#{$animal}-icon {
+        background-image: url("images/#{$animal}.png");
+    }
+}
+
+//                                               ; While
+$x: 6;
+@while $x > 0 {
+    .item-#{$x} {
+        width: 2em * $x;
+    }
+    $x: $x - 2;
+}

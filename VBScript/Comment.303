@@ -1,0 +1,9 @@
+[=1 ~title] Anotações sobre o curso de VBScript
+
+[>1 ~subtitle] Rodar VBScript no DOS
+
+< cscript "file" //nologo
+< wscript "file"
+
+; cscript serve para rodar dentro do DOS     ^ //nologo : serve para ocultar a logo da microsoft
+; wscript serve para rodar dentro do Windows

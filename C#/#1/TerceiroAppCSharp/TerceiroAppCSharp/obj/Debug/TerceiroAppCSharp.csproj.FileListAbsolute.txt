@@ -1,0 +1,9 @@
+C:\Users\elito\source\repos\TerceiroAppCSharp\TerceiroAppCSharp\bin\Debug\TerceiroAppCSharp.exe.config
+C:\Users\elito\source\repos\TerceiroAppCSharp\TerceiroAppCSharp\bin\Debug\TerceiroAppCSharp.exe
+C:\Users\elito\source\repos\TerceiroAppCSharp\TerceiroAppCSharp\bin\Debug\TerceiroAppCSharp.pdb
+C:\Users\elito\source\repos\TerceiroAppCSharp\TerceiroAppCSharp\obj\Debug\TerceiroAppCSharp.csprojAssemblyReference.cache
+C:\Users\elito\source\repos\TerceiroAppCSharp\TerceiroAppCSharp\obj\Debug\TerceiroAppCSharp.Properties.Resources.resources
+C:\Users\elito\source\repos\TerceiroAppCSharp\TerceiroAppCSharp\obj\Debug\TerceiroAppCSharp.csproj.GenerateResource.cache
+C:\Users\elito\source\repos\TerceiroAppCSharp\TerceiroAppCSharp\obj\Debug\TerceiroAppCSharp.exe
+C:\Users\elito\source\repos\TerceiroAppCSharp\TerceiroAppCSharp\obj\Debug\TerceiroAppCSharp.pdb
+C:\Users\elito\source\repos\TerceiroAppCSharp\TerceiroAppCSharp\obj\Debug\TerceiroAppCSharp.frmPrincipal.resources

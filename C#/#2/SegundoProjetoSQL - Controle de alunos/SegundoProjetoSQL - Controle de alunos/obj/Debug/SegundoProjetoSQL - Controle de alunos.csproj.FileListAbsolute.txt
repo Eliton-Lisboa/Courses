@@ -1,0 +1,10 @@
+C:\Users\elito\source\repos\SegundoProjetoSQL - Controle de alunos\SegundoProjetoSQL - Controle de alunos\bin\Debug\SegundoProjetoSQL - Controle de alunos.exe.config
+C:\Users\elito\source\repos\SegundoProjetoSQL - Controle de alunos\SegundoProjetoSQL - Controle de alunos\bin\Debug\SegundoProjetoSQL - Controle de alunos.exe
+C:\Users\elito\source\repos\SegundoProjetoSQL - Controle de alunos\SegundoProjetoSQL - Controle de alunos\bin\Debug\SegundoProjetoSQL - Controle de alunos.pdb
+C:\Users\elito\source\repos\SegundoProjetoSQL - Controle de alunos\SegundoProjetoSQL - Controle de alunos\obj\Debug\SegundoProjetoSQL - Controle de alunos.csprojAssemblyReference.cache
+C:\Users\elito\source\repos\SegundoProjetoSQL - Controle de alunos\SegundoProjetoSQL - Controle de alunos\obj\Debug\SegundoProjetoSQL___Controle_de_alunos.frmControleDeAlunos.resources
+C:\Users\elito\source\repos\SegundoProjetoSQL - Controle de alunos\SegundoProjetoSQL - Controle de alunos\obj\Debug\SegundoProjetoSQL___Controle_de_alunos.Properties.Resources.resources
+C:\Users\elito\source\repos\SegundoProjetoSQL - Controle de alunos\SegundoProjetoSQL - Controle de alunos\obj\Debug\SegundoProjetoSQL - Controle de alunos.csproj.GenerateResource.cache
+C:\Users\elito\source\repos\SegundoProjetoSQL - Controle de alunos\SegundoProjetoSQL - Controle de alunos\obj\Debug\SegundoProjetoSQL - Controle de alunos.csproj.CoreCompileInputs.cache
+C:\Users\elito\source\repos\SegundoProjetoSQL - Controle de alunos\SegundoProjetoSQL - Controle de alunos\obj\Debug\SegundoProjetoSQL - Controle de alunos.exe
+C:\Users\elito\source\repos\SegundoProjetoSQL - Controle de alunos\SegundoProjetoSQL - Controle de alunos\obj\Debug\SegundoProjetoSQL - Controle de alunos.pdb

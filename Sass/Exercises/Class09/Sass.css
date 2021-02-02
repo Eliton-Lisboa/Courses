@@ -1,0 +1,25 @@
+input#btnLogin, input#btnRegister, input#btnLogout {
+  border-style: none;
+}
+
+input#btnLogin {
+  padding: 0.25px;
+  border-width: 0.125px, rgba(0, 0, 0, 0.2);
+  border-radius: 0.25px;
+  background: #e00;
+}
+
+input#btnRegister {
+  padding: 0.25px;
+  border-width: 0.125px, rgba(0, 0, 0, 0.2);
+  border-radius: 0.25px;
+  background: #ef0;
+}
+
+input#btnLogout {
+  padding: 0.25px;
+  border-width: 0.125px, rgba(0, 0, 0, 0.2);
+  border-radius: 0.25px;
+  background: #0f00;
+}
+/*# sourceMappingURL=Sass.css.map */

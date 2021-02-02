@@ -1,0 +1,19 @@
+.btn-follow, input#btnLogin, input#btnRegister, input#btnLogout {
+  padding: 4px;
+  border-width: 2px rgba(0, 0, 0, 0.2);
+  border-style: none;
+  border-radius: 4px;
+}
+
+input#btnLogin {
+  background: #e00;
+}
+
+input#btnRegister {
+  background: #ef0;
+}
+
+input#btnLogout {
+  background: #0f00;
+}
+/*# sourceMappingURL=Sass.css.map */

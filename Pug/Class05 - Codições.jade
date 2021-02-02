@@ -1,0 +1,23 @@
+doctype html
+html(lang='en')
+    header
+        meta(charset='utf-8')
+        link(rel='stylesheet', href='./')
+        script(src='./')
+        title Document
+    body
+        -let hi = true
+
+        if hi
+            p Hi
+        else if false
+            p Hello
+        else
+            p Error: hi not is true and not is false
+
+        //-     default     if true     if false
+        p(class='logged' ? 'is true' : 'is false')
+
+        //- mesma coisa que perguntar se é false
+        unless hi
+            p Hello

@@ -1,0 +1,12 @@
+
+// ---- Não agrupa
+@mixin center {
+    display: block;
+    margin: 0px auto;
+}
+
+// ---- Agrupa: para agrupar blocos ectáticos
+%center {
+    display: block;
+    margin: 0px auto;
+}

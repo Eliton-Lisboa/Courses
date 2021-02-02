@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    easy_translate (0.5.1)
+      thread
+      thread_safe
+    thread (0.2.2)
+    thread_safe (0.3.6)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  easy_translate (~> 0.5.1)
+
+BUNDLED WITH
+   2.1.4

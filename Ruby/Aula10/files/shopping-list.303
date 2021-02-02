@@ -1,0 +1,12 @@
+[=1 ~title] Lista de compras no shopping
+[>1 ~subtitle] Não esquecer
+
+<  Sapato     , <  Tênis
+<  Calça      , < *Salgadinho
+<  Camiseta   , < *Lasanha
+< ~Roupão     , < *Pizza
+<  Edredom    , < *Meias
+< ~Arroz
+< ~Feijão
+< *Leite<  Celular< *Computador
+<  Lapis

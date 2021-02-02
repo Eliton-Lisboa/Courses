@@ -1,0 +1,18 @@
+[=1 ~title] Anotações sobre Fortran
+
+[>1 ~subtitle] Compilação
+}
+    gfortran file.f90 -o file
+}
+[>1 ~subtitle] Compilação de arquivos separados
+}
+    gfortran file1.f90 file2.f90 file3.f90 -o file1
+}
+
+[>1 ~subtitle] Documentação
+-https://www.cenapad.unicamp.br/servicos/treinamentos/apostilas/apostila_fortran90.pdf
+
+[>1 ~subtitle] Oque é 'implicit none'?
+
+\; Serve para que variáveis que não foram criadas
+\; não possam receber valores.

@@ -1,0 +1,42 @@
+doctype html
+html(lang='en')
+    header
+        meta(charset='utf-8')
+        link(rel='stylesheet', href='./')
+        script(src='./')
+        title Document
+    body
+        -let names = ['eliton', 'manuela', 'kailandra', 'julia', 'gustavo', 'helliot']
+
+        each name in names
+            p= `${name.charAt(0).toUpperCase()}${name.substring(1)}`
+
+        //- if not exist names in #{names}
+        each name in names.length ? names : ['Not exist names']
+            p= `${name.charAt(0).toUpperCase()}${name.substring(1)}`
+
+        //- or
+        each name in names
+            p= `${name.charAt(0).toUpperCase()}${name.substring(1)}`
+        else
+            span Not exist names
+
+
+
+
+        //- Examples
+
+        -
+            const person = {
+                name: 'Helliot',
+                email: 'elitonlopes36@gmail.com'
+            }
+
+        -names = ['eliton', 'manuela', 'kailandra', 'julia', 'gustavo', 'helliot']
+
+        each value, key in person
+            p= `${key}: ${value}`
+
+        each value, index in names
+            p= `${index + 1}: ${value}`
+        

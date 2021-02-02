@@ -1,0 +1,19 @@
+doctype html
+html(lang='en')
+    header
+        meta(charset='utf-8')
+        link(rel='stylesheet', href='./')
+        script(src='./')
+        title Document
+    body
+        -const names = ['Eliton', 'Kailandra', 'Helliot', 'Julia']
+
+        mixin link(text, name, color)
+            h1(style={"color": `${color}`}) #{text} #{name}
+
+        mixin list(items)
+            each item in items
+                li #{item}
+
+        +link('Hi', 'Eliton', '#000')
+        +list(names)

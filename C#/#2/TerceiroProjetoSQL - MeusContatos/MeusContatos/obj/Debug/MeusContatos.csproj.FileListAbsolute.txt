@@ -1,0 +1,12 @@
+C:\Users\eliseo\Desktop\MeusContatos\MeusContatos\bin\Debug\MeusContatos.exe.config
+C:\Users\Maely\Desktop\tarefa extra\Aula 04 - OK\Atividade Extra\MeusContatos\MeusContatos\bin\Debug\MeusContatos.exe.config
+C:\Users\elito\Desktop\MeusContatos\MeusContatos\bin\Debug\MeusContatos.exe.config
+C:\Users\elito\Desktop\MeusContatos\MeusContatos\bin\Debug\MeusContatos.exe
+C:\Users\elito\Desktop\MeusContatos\MeusContatos\bin\Debug\MeusContatos.pdb
+C:\Users\elito\Desktop\MeusContatos\MeusContatos\obj\Debug\MeusContatos.csprojAssemblyReference.cache
+C:\Users\elito\Desktop\MeusContatos\MeusContatos\obj\Debug\MeusContatos.frmPrincipal.resources
+C:\Users\elito\Desktop\MeusContatos\MeusContatos\obj\Debug\MeusContatos.Properties.Resources.resources
+C:\Users\elito\Desktop\MeusContatos\MeusContatos\obj\Debug\MeusContatos.csproj.GenerateResource.cache
+C:\Users\elito\Desktop\MeusContatos\MeusContatos\obj\Debug\MeusContatos.csproj.CoreCompileInputs.cache
+C:\Users\elito\Desktop\MeusContatos\MeusContatos\obj\Debug\MeusContatos.exe
+C:\Users\elito\Desktop\MeusContatos\MeusContatos\obj\Debug\MeusContatos.pdb

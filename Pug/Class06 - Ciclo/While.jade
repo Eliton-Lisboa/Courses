@@ -1,0 +1,13 @@
+doctype html
+html(lang='en')
+    header
+        meta(charset='utf-8')
+        link(rel='stylesheet', href='./')
+        script(src='./')
+        title Document
+    body
+        -let number = 13
+
+        while number >= 0
+            p= `${number}`
+            -number--

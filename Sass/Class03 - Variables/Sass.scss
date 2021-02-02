@@ -1,0 +1,40 @@
+// ---- Example Variables
+$width: 100%;
+$font-size: 1.2rem;
+$background: #962acd;
+$color: #fff;
+$border-style: solid 1px $color;
+
+// ---- List Variables
+$animals: puma, sea-slug, egret, salamander;
+$animals: puma sea-slug egret salamander;
+$animals: "puma", "sea-slug", "egret", "salamander";
+$margin: 10px 20px 15px 20px;
+
+// ---- Int Variables
+$width-rem: 3.5rem;
+$width-px: 300px;
+$width: 300;
+
+// ---- String and Value variables
+$font: 'Lucida Grande';
+$weight: bold;
+
+// ---- Color Variables
+$bg: red;
+$bg-section: rgb(100, 100, 100);
+$font-color: #ffffff;
+
+// ---- Json Variables
+$social: (
+    facebook: #3b5998,
+    flickr: #0063db,
+    github: #4183c4,
+    googleplus: #dd4b39,
+    instagram: #517fa4,
+    linkdin: #007bb6,
+    pinterest: #cb2027,
+    soundcloud: #f60,
+    twitter: #00aced,
+    youtube: #b00
+);

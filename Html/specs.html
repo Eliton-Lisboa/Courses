@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8"/> <!-- Formatação de texto (para não gerar erros de fonte) -->
+    <title>Tudo sobre Google Glass</title> <!-- Titulo -->
+    <link rel="stylesheet" href="style/estilo.css"/>
+    <link rel="stylesheet" href="style/specs.css">
+</head>
+<script language="javascript" src="js/funcoes.js"></script>
+<body>
+    <div id="interface"> <!-- Inicio divisão -->
+
+        <header id="cabecalho"> <!-- Inicio cabeçalho (com o id "cabeçalho") -->
+            <hgroup> <!-- Grupo -->
+                <h1>Google Glass</h1> <!-- Título -->
+                <h2>A revolução do Google está chegando</h2> <!-- Subtítulo de <h1> -->
+            </hgroup> <!-- Fim grupo -->
+
+            <img id="icone" src="resources/pictures/especificacoes.png"/> <!-- Imagem -->
+
+            <nav id="menu"> <!-- Menu de navegação -->
+                <h1>Menu Principal</h1>
+                <ul type="disc">
+                    <li onmouseover="mudaFoto('resources/pictures/home.png')" onmouseout="mudaFoto('resources/pictures/especificacoes.png')"><a href="index.html">Home</a></li> <!-- Menu com link -->
+                    <li onmouseover="mudaFoto('resources/pictures/especificacoes.png')" onmouseout="mudaFoto('resources/pictures/especificacoes.png')"><a href="specs.html">Especificações</a></li>
+                    <li onmouseover="mudaFoto('resources/pictures/fotos.png')" onmouseout="mudaFoto('resources/pictures/especificacoes.png')"><a href="fotos.html">Fotos</a></li>
+                    <li onmouseover="mudaFoto('resources/pictures/multimidia.png')" onmouseout="mudaFoto('resources/pictures/especificacoes.png')"><a href="multimidia.html">Multimídia</a></li>
+                    <li onmouseover="mudaFoto('resources/pictures/contato.png')" onmouseout="mudaFoto('resources/pictures/especificacoes.png')"><a href="fale-conosco.html">Fale conosco</a></li>
+                </ul>
+            </nav>
+        </header> <!-- Fim do cabeçalho -->
+
+        <section id="corpo-full">
+            <article id="noticia-principal">
+                <header id="cabecalho-artigo">
+                    <hgroup>
+                        <h3>Glass > Especificações</h3>
+                        <h1>Raio-X no Google Glass</h1>
+                        <h2>por Gustavo Guanabara</h2>
+                        <h3 class="direita">Atualizado em 01/Maio/2013</h3>
+                    </hgroup>
+                </header>
+
+                <p>
+                    Clique em qualquer área destacada da imagem para ter mais informações sobre os recursos do Google Glass. Qualquer ponto vermelho vai te levar a um lugar cheio de novas informações.
+                </p>
+
+                <section id="conteudo">
+                    <img src="resources/pictures/glass-esquema-marcado.jpg" usemap='#meumapa'/> <!-- Imagem com mapa.  -->
+                    <map name="meumapa">
+                        <area shape="rect" coords="179, 202, 270, 260" href="google-glass.html#tela" target="janela"/> <!-- Mapa com: tipo, coordenadas, arquivo e onde abrir. -->
+                        <area shape="circle" coords="158, 243, 12" href="google-glass.html#camera" target="janela"/>
+                        <area shape="poly" coords="28, 143, 83, 216, 84, 249, 27, 169" href="google-glass.html#sensores" target="janela"/>
+                        <area shape="circle" coords="77, 52, 12" href="google-glass.html#gadgets" target="janela"/>
+                    </map>
+                    <iframe src="google-glass.html" name="janela" id="frame-spec"></iframe>
+                </section>
+            </article>
+        </section>
+
+<footer id="rodape">
+    <p>
+        Copyright&copy; 2013 - by Gustavo Guanabara <br/>
+        <a href="http://facebook.com/cursosemvideo" target="_blank">Facebook</a> | 
+        <a href="http://twitter.com/cursosemvideo" target="_blank">Twitter </a>
+    </p>
+</footer>
+</div> <!-- Fim divisão -->
+</body>
+</html>

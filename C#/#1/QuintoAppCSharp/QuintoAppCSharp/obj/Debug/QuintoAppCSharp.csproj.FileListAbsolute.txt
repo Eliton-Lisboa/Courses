@@ -1,0 +1,9 @@
+C:\Users\elito\source\repos\QuintoAppCSharp\QuintoAppCSharp\bin\Debug\QuintoAppCSharp.exe.config
+C:\Users\elito\source\repos\QuintoAppCSharp\QuintoAppCSharp\bin\Debug\QuintoAppCSharp.exe
+C:\Users\elito\source\repos\QuintoAppCSharp\QuintoAppCSharp\bin\Debug\QuintoAppCSharp.pdb
+C:\Users\elito\source\repos\QuintoAppCSharp\QuintoAppCSharp\obj\Debug\QuintoAppCSharp.csprojAssemblyReference.cache
+C:\Users\elito\source\repos\QuintoAppCSharp\QuintoAppCSharp\obj\Debug\QuintoAppCSharp.Form1.resources
+C:\Users\elito\source\repos\QuintoAppCSharp\QuintoAppCSharp\obj\Debug\QuintoAppCSharp.Properties.Resources.resources
+C:\Users\elito\source\repos\QuintoAppCSharp\QuintoAppCSharp\obj\Debug\QuintoAppCSharp.csproj.GenerateResource.cache
+C:\Users\elito\source\repos\QuintoAppCSharp\QuintoAppCSharp\obj\Debug\QuintoAppCSharp.exe
+C:\Users\elito\source\repos\QuintoAppCSharp\QuintoAppCSharp\obj\Debug\QuintoAppCSharp.pdb

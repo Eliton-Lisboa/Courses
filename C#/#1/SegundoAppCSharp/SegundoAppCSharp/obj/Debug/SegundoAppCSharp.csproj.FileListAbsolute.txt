@@ -1,0 +1,9 @@
+C:\Users\elito\source\repos\SegundoAppCSharp\SegundoAppCSharp\bin\Debug\SegundoAppCSharp.exe.config
+C:\Users\elito\source\repos\SegundoAppCSharp\SegundoAppCSharp\bin\Debug\SegundoAppCSharp.exe
+C:\Users\elito\source\repos\SegundoAppCSharp\SegundoAppCSharp\bin\Debug\SegundoAppCSharp.pdb
+C:\Users\elito\source\repos\SegundoAppCSharp\SegundoAppCSharp\obj\Debug\SegundoAppCSharp.csprojAssemblyReference.cache
+C:\Users\elito\source\repos\SegundoAppCSharp\SegundoAppCSharp\obj\Debug\SegundoAppCSharp.Form1.resources
+C:\Users\elito\source\repos\SegundoAppCSharp\SegundoAppCSharp\obj\Debug\SegundoAppCSharp.Properties.Resources.resources
+C:\Users\elito\source\repos\SegundoAppCSharp\SegundoAppCSharp\obj\Debug\SegundoAppCSharp.csproj.GenerateResource.cache
+C:\Users\elito\source\repos\SegundoAppCSharp\SegundoAppCSharp\obj\Debug\SegundoAppCSharp.exe
+C:\Users\elito\source\repos\SegundoAppCSharp\SegundoAppCSharp\obj\Debug\SegundoAppCSharp.pdb

@@ -1,0 +1,32 @@
+@function pxToRem($px) {
+    $result: ($px/16);
+    @return $result;
+}
+
+%borderNone {
+    border-style: none;
+}
+
+input#btnLogin {
+    padding: pxToRem(4px);
+    border-width: pxToRem(2px), rgba(0, 0, 0, .2);
+    @extend %borderNone;
+    border-radius: pxToRem(4px);
+    background: #e00;
+}
+
+input#btnRegister {
+    padding: pxToRem(4px);
+    border-width: pxToRem(2px), rgba(0, 0, 0, .2);
+    @extend %borderNone;
+    border-radius: pxToRem(4px);
+    background: #ef0;
+}
+
+input#btnLogout {
+    padding: pxToRem(4px);
+    border-width: pxToRem(2px), rgba(0, 0, 0, .2);
+    @extend %borderNone;
+    border-radius: pxToRem(4px);
+    background: #0f00;
+}

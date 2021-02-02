@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{09796A4E-AEB9-4321-9280-B802D95D95AA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PrimeiroAppCSharp</RootNamespace>
+    <AssemblyName>PrimeiroAppCSharp</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPropriedadesCheckBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPropriedadesCheckBox.Designer.cs">
+      <DependentUpon>frmPropriedadesCheckBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTabuada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTabuada.Designer.cs">
+      <DependentUpon>frmTabuada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVisializadorImagens.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVisializadorImagens.Designer.cs">
+      <DependentUpon>frmVisializadorImagens.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPropriedadesCheckBox.resx">
+      <DependentUpon>frmPropriedadesCheckBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTabuada.resx">
+      <DependentUpon>frmTabuada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVisializadorImagens.resx">
+      <DependentUpon>frmVisializadorImagens.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\album-de-moldura-de-foto-em-branco-decorar-com-forma-de-flor-e-coracao-no-antigo-fundo-de-madeira-azul_7186-1679.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\voting-checkbox-clipart-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\239523-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\239523-2001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\239523-200 cópia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cbb25ff6f1471030763f0709c87e276a---cone-de-calculadora-by-vexels.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cbb25ff6f1471030763f0709c87e276a---cone-de-calculadora-by-vexels1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kk1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cbb25ff6f1471030763f0709c87e276a---cone-de-calculadora-by-vexels2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cbb25ff6f1471030763f0709c87e276a---cone-de-calculadora-by-vexels3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_116083978-stock-illustration-photographic-camera-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_116083978-stock-illustration-photographic-camera-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_116083978-stock-illustration-photographic-camera-icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_116083978-stock-illustration-photographidc-camera-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

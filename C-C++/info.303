@@ -1,0 +1,4 @@
+[1] Compile c++ with gcc
+}
+    gcc "file.cpp" -lstdc++
+}

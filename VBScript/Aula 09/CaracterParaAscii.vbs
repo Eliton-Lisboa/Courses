@@ -1,0 +1,5 @@
+MsgBox "A = " & Asc("A")
+MsgBox "c = " & Asc("c")
+MsgBox "b = " & Asc("b")
+MsgBox "& = " & Asc("&")
+MsgBox "l = " & Asc("l")

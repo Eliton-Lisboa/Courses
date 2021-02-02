@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='utf-8'>
+    <title>Document</title>
+</head>
+<body>
+    Write a text: <input type="text" id="text"/> <br/>
+    <input type='submit' value='Show Message' onclick='ShowMessage()'/> <br/>
+    <span id='Message'>Message</span>
+</body>
+</html>
+
+<script language='VBScript'>
+    sub ShowMessage()
+        vEntrada = document.getElementById( "text" ).Value
+        document.getElementById( "Message" ).innerHTML = vEntrada
+    end sub
+</script>

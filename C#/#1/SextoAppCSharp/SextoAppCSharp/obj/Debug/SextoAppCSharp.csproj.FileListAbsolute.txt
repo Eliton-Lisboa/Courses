@@ -1,0 +1,9 @@
+C:\Users\elito\source\repos\SextoAppCSharp\SextoAppCSharp\bin\Debug\SextoAppCSharp.exe.config
+C:\Users\elito\source\repos\SextoAppCSharp\SextoAppCSharp\bin\Debug\SextoAppCSharp.exe
+C:\Users\elito\source\repos\SextoAppCSharp\SextoAppCSharp\bin\Debug\SextoAppCSharp.pdb
+C:\Users\elito\source\repos\SextoAppCSharp\SextoAppCSharp\obj\Debug\SextoAppCSharp.csprojAssemblyReference.cache
+C:\Users\elito\source\repos\SextoAppCSharp\SextoAppCSharp\obj\Debug\SextoAppCSharp.Form1.resources
+C:\Users\elito\source\repos\SextoAppCSharp\SextoAppCSharp\obj\Debug\SextoAppCSharp.Properties.Resources.resources
+C:\Users\elito\source\repos\SextoAppCSharp\SextoAppCSharp\obj\Debug\SextoAppCSharp.csproj.GenerateResource.cache
+C:\Users\elito\source\repos\SextoAppCSharp\SextoAppCSharp\obj\Debug\SextoAppCSharp.exe
+C:\Users\elito\source\repos\SextoAppCSharp\SextoAppCSharp\obj\Debug\SextoAppCSharp.pdb

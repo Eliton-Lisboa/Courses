@@ -1,0 +1,17 @@
+extends ./template
+
+//- Se não colocar o append ele ignora oque foi escrito
+append header
+    h1 Tá em Casa
+    h2 Hamburgueria artesanal
+
+//- Igual a append mas o conteúdo do template fica depois do escrito no block
+prepend main
+    p Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+      | Voluptates dolores delectus repellat voluptatum laborum.
+      | Rem sequi magnam fuga maxime quas? Voluptates dicta
+      | deserunt odio ipsa asperiores? Sit quisquam velit modi?
+
+block footer
+    p Dono:       Rafael
+    p programmer: Eliton

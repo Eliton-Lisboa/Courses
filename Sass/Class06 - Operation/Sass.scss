@@ -1,0 +1,67 @@
+h1 {
+    // font-size: 2em + 22px;   --> Unidades incompatíveis
+    // font-size: 5px + 2;      --> 7px
+    // font-size: 5px * 2px;    --> Unidade invalida
+}
+
+// *** Dois números com a mesma unidade ele faz a conta ao quadrado.
+
+// ----
+
+h1 {
+    font-size: 5px - 2;      // 3px
+}
+
+// ----
+
+$base-size: 20px;
+$line-height: 22px;
+
+p {
+    font: 10px/8px bold italic serif;
+    $width: 1000px;
+    width: $width/2;
+    width: round(1.5)/2;
+    height: (500px/2);
+    margin-left: 5px + 8px/2px;
+    font: (italic bold 10px/8px);
+    font-size: #{$base-size} / #{$line-height};
+}
+
+// ----
+
+$font-size: 27px;
+
+p {
+    font-size: $font-size % 2;
+}
+
+// ----
+
+p {
+    color: #010203 + #040506;
+}
+
+p {
+    color: #010203 * 2;
+}
+
+p {
+    color: rgba(255, 0, 0, 0.75) + rgba(0, 255, 0, 0.75);
+}
+// para cores RGBA em que ter o mesmo alpha
+
+// ----
+
+p {
+    cursor: e + -resize;
+}
+
+P:before {
+    content: "Eu tenho #{2 + 10} moedas.";
+}
+
+$value: null;
+p:before {
+    content: "Eu tenho #{$value} moedas.";
+}

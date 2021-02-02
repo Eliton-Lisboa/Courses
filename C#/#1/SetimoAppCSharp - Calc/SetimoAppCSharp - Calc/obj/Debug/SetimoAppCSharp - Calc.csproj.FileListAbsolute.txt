@@ -1,0 +1,9 @@
+C:\Users\elito\source\repos\SetimoAppCSharp - Calc\SetimoAppCSharp - Calc\bin\Debug\SetimoAppCSharp - Calc.exe.config
+C:\Users\elito\source\repos\SetimoAppCSharp - Calc\SetimoAppCSharp - Calc\bin\Debug\SetimoAppCSharp - Calc.exe
+C:\Users\elito\source\repos\SetimoAppCSharp - Calc\SetimoAppCSharp - Calc\bin\Debug\SetimoAppCSharp - Calc.pdb
+C:\Users\elito\source\repos\SetimoAppCSharp - Calc\SetimoAppCSharp - Calc\obj\Debug\SetimoAppCSharp - Calc.csprojAssemblyReference.cache
+C:\Users\elito\source\repos\SetimoAppCSharp - Calc\SetimoAppCSharp - Calc\obj\Debug\SetimoAppCSharp___Calc.frmCalculadora.resources
+C:\Users\elito\source\repos\SetimoAppCSharp - Calc\SetimoAppCSharp - Calc\obj\Debug\SetimoAppCSharp___Calc.Properties.Resources.resources
+C:\Users\elito\source\repos\SetimoAppCSharp - Calc\SetimoAppCSharp - Calc\obj\Debug\SetimoAppCSharp - Calc.csproj.GenerateResource.cache
+C:\Users\elito\source\repos\SetimoAppCSharp - Calc\SetimoAppCSharp - Calc\obj\Debug\SetimoAppCSharp - Calc.exe
+C:\Users\elito\source\repos\SetimoAppCSharp - Calc\SetimoAppCSharp - Calc\obj\Debug\SetimoAppCSharp - Calc.pdb

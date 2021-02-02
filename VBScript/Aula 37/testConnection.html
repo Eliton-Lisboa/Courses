@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='utf-8'>
+    <title>Document</title>
+</head>
+<body>
+    <input type='submit' value='Message' onclick='ShowMessage()'/>
+    <span id='text'></span>
+</body>
+</html>
+
+<script language='VBScript'>
+    sub ShowMessage()
+        dim text = "", cn = CreateObject( "ADODB.Connection" ), rc = CreateObject( "ADODB.RecordSet" )
+
+        cn.Open "Provider=Microsoft.Jet.OLEDB.4.0; Data source=../DataBase/DBVBScript.mdb"
+        rc.CursorLocation = 3
+
+        rc.Open "select * from agenda"
+
+        if rc.RecordCount > 0 then
+            rc.MoveFirst
+
+            text = "<table border=1><tr>"
+            For x = 0 to rc.Fields.Count - 1
+                text = text & "<tr>" & rc.Fields(x).Name & "</tr>"
+            Next
+
+            text = text & "</tr>"
+
+            do while not rc.eof
+                text = text & "<tr>"
+                for x = 0 to rc.Fields.Count - 1
+                    text = text & "<td>" & rc.Fields(x).Value & "</td>"
+                Next
+
+                text = text & "</tr>"
+                rc.MoveNext
+            loop
+
+            text = text & "</table>"
+        end if
+        document.getElementById( "text" ).innerHTML = text
+
+    end sub
+</script>

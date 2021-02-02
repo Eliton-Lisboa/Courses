@@ -1,0 +1,27 @@
+.box {
+  border-radius: 10px;
+}
+
+h1 {
+  color: blue;
+  font-size: 14px;
+}
+
+h1 {
+  color: green;
+  font-size: 14px;
+}
+
+h1 {
+  color: green;
+  font-size: 14px;
+}
+
+p {
+  padding: 10px, 20px;
+}
+
+p {
+  padding: 10px, 30px, 20px, 30px;
+}
+/*# sourceMappingURL=Sass.css.map */
